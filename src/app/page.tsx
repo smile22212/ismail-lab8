@@ -18,7 +18,7 @@ export default function Home() {
               SCIT
             </h1>
             <h2 className="text-lg font-medium text-primary tracking-wider">NUMBER CONVERSIONS TOOL</h2>
-            <p className="text-xs text-muted-foreground">developed by Hafiz Muhammad Abubakar</p>
+            <p className="text-xs text-muted-foreground">developed by Muhammad Ismail</p>
           </div>
           <ThemeToggle />
         </div>
